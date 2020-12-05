@@ -1,1 +1,1 @@
-my new 4 firstbranch
+my new 4 firstbranch is merged to master
